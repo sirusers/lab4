@@ -1,8 +1,6 @@
-// Copyright 2021 Your Name <your_email>
+// Copyright 2021 Sergey agamesok@gamil.com
 
 #ifndef INCLUDE_EXAMPLE_HPP_
 #define INCLUDE_EXAMPLE_HPP_
-
-auto example() -> void;
-
+void start();
 #endif // INCLUDE_EXAMPLE_HPP_

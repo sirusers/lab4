@@ -1,5 +1,7 @@
-#include <example.hpp>
+// Copyright 2021 Sergey agamesok@gamil.com
+
+#include <header.hpp>
 
 int main() {
-  example();
+  start();
 }
